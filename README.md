@@ -11,6 +11,12 @@ This is for documenting my progress for group project.
 **Progress summary:**
 For the first a few weeks, I was struggled with my computer set up. I was using Windows and it was not very convenient for coding. 
 
+For this issue 1517, the user reported a negative test case as follows:
+void test00(){
+    int i = 0;
+    i = 2 + (i++); // no warning (false negative)'
+}
+
 before:
 
 ![image](https://user-images.githubusercontent.com/62916853/142747752-b1de70d4-705a-4768-8ed6-29720c5110a9.png)
