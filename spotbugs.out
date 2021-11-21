@@ -2,3 +2,5 @@ M D DLS: Dead store to i in com.example1.Spotbugs1517.test00()  At Spotbugs1517.
 M D SA: Self assignment of i in com.example1.App.main(String[])  At App.java:[line 13]
 M D DLS: Dead store to i in com.example1.App.main(String[])  At App.java:[line 13]
 H C DLS: Overwritten increment in com.example1.App.main(String[])  At App.java:[line 13]
+M P UuF: Unused field: com.example1.Spotbugs1759.lst  In Spotbugs1759.java
+M P UuF: Unused field: com.example1.Spotbugs1759.res  In Spotbugs1759.java
