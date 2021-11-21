@@ -42,7 +42,7 @@ after:
 
 We can see that the warning for spotbugs1517 disappeared in the after picture.
 
-**Tests Written:** Source code and commits history for the test can be found in this [repository](https://github.com/heeki/SampleJavaSdkV2).
+**Tests Written:** Source code and commits history for the test can be found in this [repository](https://github.com/dracopeng/demo-groupproj).
 
 
 ### Spotbugs Issue #1518
