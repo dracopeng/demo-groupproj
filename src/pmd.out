@@ -1,0 +1,1 @@
+/home/xinp2/demo1/src/main/java/com/example1/App.java:8:	UseUtilityClass:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
