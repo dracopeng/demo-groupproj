@@ -12,8 +12,11 @@ This is for documenting my progress for group project.
 For the first a few weeks, I was struggled with my computer set up. I was using Windows and it was not very convenient for coding. 
 
 before:
+
 ![image](https://user-images.githubusercontent.com/62916853/142747752-b1de70d4-705a-4768-8ed6-29720c5110a9.png)
+
 after:
+
 ![image](https://user-images.githubusercontent.com/62916853/142747770-142f732c-5e45-4e84-a3eb-326cf8925acc.png)
 
 
