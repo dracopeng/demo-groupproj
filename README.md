@@ -65,3 +65,6 @@ after:
 
 
 **Tests Written:** Source code for the preliminary client can be found in this [repository](https://github.com/heeki/SampleJavaSdkV2).
+
+![image](https://user-images.githubusercontent.com/62916853/145508828-43f03d78-aea9-44b2-bd18-6adc33ca6234.png)
+
